@@ -1,0 +1,6 @@
+projectKey=es.edu.ull:ExpositoTOP
+serverUrl=http://localhost:9000
+serverVersion=9.1.0.47736
+dashboardUrl=http://localhost:9000/dashboard?id=es.edu.ull%3AExpositoTOP
+ceTaskId=AX1D356IMB97VDwob4HJ
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX1D356IMB97VDwob4HJ
